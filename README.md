@@ -13,12 +13,27 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 - **Snowflake** | **BigQuery** | **Looker** | **Python**
 
 ## 🌟 Featured Projects
-- [dbt_silverscreen_project](https://github.com/BiancaNiemann/dbt_silverscreen_project)  
-  *A hands-on dbt project exploring data transformation and modeling.*
-- [databricks_Global_Mart_Mini-Project](https://github.com/BiancaNiemann/databricks_Global_Mart_Mini-Project)  
-  *A mini-project leveraging Databricks for scalable data analytics.*
+- [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)  
+  - Pulled raw e-commerce data into BigQuery and used dbt Core to perform transformations, creating a star schema for analyticsready tables.
+  - Integrated and cleaned multiple data sources, standardizing columns to ensure consistency for downstream analytics.
+  - Orchestrated the ETL workflow with Airflow, automating data pipelines and table builds in BigQuery.
+  - Developed an interactive Looker Studio dashboard to visualize sales performance, customer behavior, and channel-specific trends.
+ 
+  - Tools Used
+     - dbt Core
+     - Big Query
+     - Airflow
+     - Looker Studio
+  
+- [databricks_Global_Mart_Mini-Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/databricks_Global_Mart_Mini-Project)  
+  - Cleaned and transformed raw sales data (duplicates, missing values, data types) using SQL within Databricks notebooks.
+  - Designed and implemented key sales metrics (total revenue, order counts, average order value, regional performance).
+  - Built an interactive sales dashboard in Databricks enabling analysis of total sales, top products, and sales trends over time.
+ 
+  - Tools Used
+     - databricks
 
-Explore more in my pinned repositories!
+Explore more in my Repo - [Data_Analyst_Portfolio_Projects](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects)  
 
 ## 📚 Currently Learning
 - Advanced data modeling, visualization, and cloud analytics.
@@ -26,6 +41,7 @@ Explore more in my pinned repositories!
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/bianca-niemann/)
+- [Portfolio Website](https://payrollsollutions.wixsite.com/bianca-niemann)
 
 ---
 
