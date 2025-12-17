@@ -14,6 +14,12 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 
 ## 🌟 Featured Projects
 
+- [Unified_Table_Data_Standardization_and_Indexing](https://github.com/BiancaNiemann/Unified_Table_DAG)
+  - Built an automated data pipeline to validate, standardize, and unify Point of Interest (POI) data from multiple source tables into a single consolidated dataset for Berlin.
+  - The pipeline enforces schema and data quality checks, excludes invalid tables, and enriches records with nearest-neighbor spatial relationships using PostGIS and GIST indexes.
+  - Orchestrated with Apache Airflow and containerized with Docker, the workflow is fully reproducible and scalable.
+  - The resulting dataset supports efficient geospatial querying and downstream analytics.
+
 - [Unified_Table_Data_Standardization_and_Indexing](https://github.com/BiancaNiemann/Unified_Table_Data_Standardization_and_Indexing)
   - Standardized and unified multiple database tables into a consolidated schema using Python and PostgreSQL.
   - Implemented data validation, nearest-neighbor spatial relationships, and spatial indexing with PostgreSQL GIST indexes, storing relationships as JSON for efficient geospatial querying and analysis.
