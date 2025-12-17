@@ -6,7 +6,6 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 ## 🚀 About Me
 - Passionate about data, analytics, and transforming raw information into actionable insights.
 - After many years in payroll, I'm thrilled to explore the world of data—learning powerful tools and techniques over the past year that I can't wait to use in the real world!
-- When I'm not exploring datasets, you'll find me outdoors—riding my mountain bike or wandering in the forest. Nature fuels my creativity!
 
 ## 🛠️ My Top Skills
 - **SQL** | **Tableau** | **ETL/ELT** | **dbt** | **Databricks**  
