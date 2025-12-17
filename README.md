@@ -41,14 +41,7 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
      - Big Query
      - Airflow
      - Looker Studio
-  
-- [databricks_Global_Mart_Mini-Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/databricks_Global_Mart_Mini-Project)  
-  - Cleaned and transformed raw sales data (duplicates, missing values, data types) using SQL within Databricks notebooks.
-  - Designed and implemented key sales metrics (total revenue, order counts, average order value, regional performance).
-  - Built an interactive sales dashboard in Databricks enabling analysis of total sales, top products, and sales trends over time.
- 
-  - Tools Used
-     - databricks
+
 
 Explore more in my Repo - [Data_Analyst_Portfolio_Projects](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects)  
 
