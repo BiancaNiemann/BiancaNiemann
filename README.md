@@ -13,6 +13,12 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 - **Snowflake** | **BigQuery** | **Looker** | **Python**
 
 ## 🌟 Featured Projects
+
+- [OSM_Data_Extraction_and_ETL_Pipeline](https://github.com/BiancaNiemann/OSM_Data_Extraction_and_ETL_Pipeline)
+  - ETL pipeline to extract, clean, and load cultural points of interest from OpenStreetMap for Berlin.
+  - Utilized Python, osmnx, geopandas, and PostgreSQL to transform raw geospatial data into structured, analysis-ready datasets.
+  - Includes reusable scripts for automated data ingestion.
+
 - [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)  
   - Pulled raw e-commerce data into BigQuery and used dbt Core to perform transformations, creating a star schema for analyticsready tables.
   - Integrated and cleaned multiple data sources, standardizing columns to ensure consistency for downstream analytics.
