@@ -5,7 +5,7 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 
 ## 🚀 About Me
 - Passionate about data, analytics, and transforming raw information into actionable insights.
-- After years in payroll, I'm thrilled to explore the world of data—learning powerful tools and techniques over the past year that I can't wait to use in the real world!
+- After many years in payroll, I'm thrilled to explore the world of data—learning powerful tools and techniques over the past year that I can't wait to use in the real world!
 - When I'm not exploring datasets, you'll find me outdoors—riding my mountain bike or wandering in the forest. Nature fuels my creativity!
 
 ## 🛠️ My Top Skills
@@ -13,6 +13,11 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
 - **Snowflake** | **BigQuery** | **Looker** | **Python**
 
 ## 🌟 Featured Projects
+
+- [Unified_Table_Data_Standardization_and_Indexing](https://github.com/BiancaNiemann/Unified_Table_Data_Standardization_and_Indexing)
+  - Standardized and unified multiple database tables into a consolidated schema using Python and PostgreSQL.
+  - Implemented data validation, nearest-neighbor spatial relationships, and spatial indexing with PostgreSQL GIST indexes, storing relationships as JSON for efficient geospatial querying and analysis.
+  - Designed the pipeline to be reusable and scalable across multiple datasets and spatial layers.
 
 - [OSM_Data_Extraction_and_ETL_Pipeline](https://github.com/BiancaNiemann/OSM_Data_Extraction_and_ETL_Pipeline)
   - ETL pipeline to extract, clean, and load cultural points of interest from OpenStreetMap for Berlin.
