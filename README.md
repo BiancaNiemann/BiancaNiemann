@@ -42,7 +42,7 @@ Currently, I'm diving deep into **Data Analytics** with Masterschool, making an 
      - Looker Studio
 
 
-Explore more in my Repo - [Data_Analyst_Portfolio_Projects](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects)  
+Explore more in my Repo!
 
 ## 📚 Currently Learning
 - Advanced data modeling, visualization, and cloud analytics.
