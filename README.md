@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Bianca Niemann!
 
-Welcome to my GitHub space!  
-Currently, I'm diving deep into **Data Analytics** with Masterschool, making an exciting career change from Payroll to Data.
-
 ## 🚀 About Me
 - Passionate about data, analytics, and transforming raw information into actionable insights.
 - After many years in payroll, I'm thrilled to explore the world of data—learning powerful tools and techniques over the past year that I can't wait to use in the real world!
