@@ -49,6 +49,12 @@ After many years in payroll, I made the leap into the world of data and I haven'
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+### Infrastructure & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
 ## 🌟 Featured Projects
